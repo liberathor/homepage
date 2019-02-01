@@ -10,16 +10,3 @@ gen
 .DS_Store
 home/.DS_Store
 home/.editorconfig
-home/.eslintrc.js
-home/README.md
-home/assets/
-home/components/
-home/layouts/
-home/middleware/
-home/nuxt.config.js
-home/package-lock.json
-home/package.json
-home/pages/
-home/plugins/
-home/static/
-home/store/
