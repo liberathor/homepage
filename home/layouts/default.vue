@@ -16,7 +16,20 @@
 </script>
 
 <style>
+  body, html {
+    height: 100%;
+  }
+
+  body {
+    background-image: url("../static/alternative-energy-background-blue-1036936.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
   html {
-    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    font-family: "Helvetica Neue", "Source Sans Pro", Arial, sans-serif;
   }
 </style>

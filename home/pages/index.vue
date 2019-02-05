@@ -2,7 +2,6 @@
   <section class="section">
     <figure class="image">
       <br/>
-      <img src="pixels.jpeg"/>
       <section class="hero">
         <div class="hero-body">
           <div class="container has-text-centered">
@@ -12,7 +11,6 @@
           </div>
         </div>
       </section>
-      <img src="developer.jpg"/>
     </figure>
   </section>
 </template>
