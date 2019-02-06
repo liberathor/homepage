@@ -1,13 +1,13 @@
 <template>
-  <section class="section is-medium">
-    <div class="container has-text-centered">
-      <h1 class="title">Contact Me</h1>
-      <p>
-        You can follow me on Twitter: <a href="https://twitter.com/liberahor" target="_blank">@liberahor</a>
-      </p>
-      <p>
-        Or if prefer send me a mail to: <strong>liberathion@gmail.com</strong>
-      </p>
-    </div>
-  </section>
+    <section class="section">
+        <h1 class="title has-text-white">Contact Me</h1>
+        <div class="has-text-centered is-buttom">
+            <p class="has-text-white subtitle">
+                You can follow me on Twitter: <a class="has-text-" href="https://twitter.com/liberahor"
+                                                 target="_blank">@liberahor</a>
+                <br>
+                Or if prefer send me a mail to: <strong class="has-text-white">liberathion@gmail.com</strong>
+            </p>
+        </div>
+    </section>
 </template>

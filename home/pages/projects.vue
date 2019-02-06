@@ -1,19 +1,19 @@
 <template>
-  <section class="hero is-top">
+  <section class="is-top">
     <div class="tile is-ancestor">
       <div class="tile is-horizontal is-parent">
-        <div class="tile box">
+        <div class="tile">
           <div class="tile is-vertical">
             <div class="hero-body">
               <div class="tile">
-                <h1 class="title is-1">Super Ear</h1>
+                <h1 class="title is-1 has-text-white">Super Ear</h1>
                 <figure class="image is-96x96">
                   <img src="icon-super-ear.png"/>
                 </figure>
               </div>
               <div class="tile is-child">
-                <h3 class="subtitle">
-                  <p>
+                <h3 class="subtitle has-text-white">
+                  <p class="has-text-white ">
                     Super Ear allows you to better hear the meeting or if you have hearing troubles and do not have your
                     hearing
                     support to hand. Just plug in your headsets and start listening better.
