@@ -1,6 +1,6 @@
 <template>
     <div class="nav-container">
-        <nav class="navbar" role="navigation" aria-label="main navigation">
+        <nav aria-label="main navigation" class="navbar is-transparent" role="navigation">
             <div class="navbar-brand">
                 <nuxt-link class="navbar-item" to="/">
                     <h1 class="subtitle has-text-white has-text-weight-light" >Liberathion Studios</h1>

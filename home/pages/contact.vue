@@ -1,7 +1,7 @@
 <template>
     <section class="section">
-        <h1 class="title has-text-white">Contact Me</h1>
-        <div class="has-text-centered is-buttom">
+        <h1 class="title is-1 has-text-white">Contact Me</h1>
+        <div class="section container has-text-centered is-buttom">
             <p class="has-text-white subtitle">
                 You can follow me on Twitter: <a class="has-text-" href="https://twitter.com/liberahor"
                                                  target="_blank">@liberahor</a>
