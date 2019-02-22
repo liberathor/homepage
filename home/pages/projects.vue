@@ -27,7 +27,7 @@
                 <h1 class="is-full title is-1 has-text-white">Scannery</h1>
                 <div class="level-item">
                     <figure class="image is-128x128">
-                        <img src="phone.png"/>
+                        <img src="phone-scanery.png"/>
                         <a
                                 href='https://play.google.com/store/apps/details?id=com.liberathor.diapason&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img
                                 alt='Get it on Google Play'
@@ -41,5 +41,23 @@
                 </p>
             </section>
         </section>
+        <footer class="footer">
+            <div class="contaier">
+                <div class="content has-text-centered">
+                    Super Ear created by Juan Carlos Ramírez, please check our
+                    <nuxt-link to="/super-ear-privacy">Privacy policy.</nuxt-link>
+                    and
+                    <nuxt-link to="/super-ear-terms-and-conditions">Terms and conditions.</nuxt-link>
+                </div>
+            </div>
+            <div class="contaier">
+                <div class="content has-text-centered">
+                    Scanery created by Juan Carlos Ramírez, please check our
+                    <nuxt-link to="/scanery-privacy">Privacy policy.</nuxt-link>
+                    and
+                    <nuxt-link to="/scanery-terms-and-conditions">Terms and conditions.</nuxt-link>
+                </div>
+            </div>
+        </footer>
     </div>
 </template>

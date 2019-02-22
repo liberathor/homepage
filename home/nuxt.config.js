@@ -3,7 +3,7 @@ module.exports = {
     base: '/homepage/'
   },
   css: [
-    'assets/debug.css',
+      'assets/main.css',
   ],
   /*
   ** Headers of the page
