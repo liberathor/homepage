@@ -24,7 +24,7 @@
         </section>
         <section class="section hero is-fullheight background-scanery">
             <div class="level">
-                <h1 class="is-full title is-1 has-text-white">Scannery</h1>
+                <h1 class="is-full title is-1 has-text-white">Scanery</h1>
                 <div class="level-item">
                     <figure class="image is-128x128">
                         <img src="phone-scanery.png"/>
