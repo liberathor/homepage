@@ -29,7 +29,7 @@
                     <figure class="image is-128x128">
                         <img src="phone-scanery.png"/>
                         <a
-                                href='https://play.google.com/store/apps/details?id=com.liberathor.diapason&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img
+                                href='https://play.google.com/store/apps/details?id=com.liberathor.backtube.qrcodescanner'><img
                                 alt='Get it on Google Play'
                                 src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
                     </figure>
