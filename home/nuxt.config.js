@@ -1,6 +1,6 @@
 module.exports = {
   router: {
-    base: '/homepage/'
+    base: '/'
   },
   css: [
       'assets/main.css',
