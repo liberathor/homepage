@@ -11,7 +11,8 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
+    "clean_deploy": "git reset --hard"
   },
   "dependencies": {
     "nuxt": "^1.0.0-rc11"

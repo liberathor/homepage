@@ -5,6 +5,9 @@
 ## Build Setup
 
 ``` bash
+#first move to home directory
+% mv home
+
 # install dependencies
 $ npm install # Or yarn install
 
@@ -20,6 +23,13 @@ $ npm run generate
 
 # deploy to production
 $ npm run deploy
+
+# if had an error, something like this
+..
+aborted: git not clean
+..
+# run this
+$ npm run clean deploy
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js) 
